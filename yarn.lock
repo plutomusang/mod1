@@ -14,6 +14,11 @@
   dependencies:
     "defer-to-connect" "^1.0.1"
 
+"@types/node@^15.0.1":
+  "integrity" "sha512-TMkXt0Ck1y0KKsGr9gJtWGjttxlZnnvDtphxUOSd0bfaR6Q1jle+sPvrzNR1urqYTWMinoKvjKfXUGsumaO1PA=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-15.0.1.tgz"
+  "version" "15.0.1"
+
 "abbrev@1":
   "integrity" "sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q=="
   "resolved" "https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz"
